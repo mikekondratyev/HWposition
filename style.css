@@ -1,0 +1,146 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+
+#e1 {
+    width: 450px;
+    height: 450px;
+    background-color: rgb(228, 228, 39);
+    margin: 0px auto;
+    position: relative;
+    border-radius: 225px;
+}
+
+#e2 {
+    
+    width: 100px; 
+    height: 100px; 
+    background-color: red;
+    position: absolute;
+    left: 100px;
+	top: 100px;
+    border-radius: 100px;
+
+    
+}
+
+#e3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+left: 250px;
+top:100px;
+border-radius: 100px;
+z-index: 1;
+
+    
+}
+
+#e4 {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    position: absolute;
+border-radius: 50px;  
+left: 200px;
+top:200px;
+z-index: 1;
+}
+
+#e5 {
+    width: 180px;
+    height: 180px;
+    background-color: green;
+    position: absolute;
+left:135px;
+top:200px;   
+border-radius: 180px; 
+}
+
+#e6 {
+    width: 200px;
+    height: 190px;
+    background-color:rgb(228, 228, 39);
+    position: absolute;
+left:150px;
+top:170px;   
+border-radius: 200px; 
+}
+
+#e7 {
+    
+    width: 10px; 
+    height: 10px; 
+    background-color: black;
+    position: absolute;
+    left: 150px;
+	top: 150px;
+    border-radius: 10px;
+
+    
+}
+
+#e8 {
+    
+    width: 10px; 
+    height: 10px; 
+    background-color: black;
+    position: absolute;
+    left: 300px;
+	top: 150px;
+    border-radius: 10px;
+z-index: 2;
+ 
+}
+
+#e9 {
+    
+    width: 70px; 
+    height: 10px; 
+    border-radius: 5px;
+    background-color: black;
+    position: absolute;
+    left: 270px;
+	top: 80px;
+z-index: 2;
+ 
+}
+
+#e10 {
+    
+    width: 70px; 
+    height: 10px; 
+    background-color: black;
+    border-radius: 5px;
+    position: absolute;
+    left: 120px;
+	top: 80px;
+z-index: 2;
+ 
+}
+
+#e11 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 228, 39);
+    position: absolute;
+left: 250px;
+top:170px;
+border-radius: 140px;
+z-index: 2;
+}
+
+#e12 {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(228, 228, 39);
+    position: absolute;
+left:185px;
+top:230px;   
+border-radius: 40px; 
+z-index: 3;
+}
